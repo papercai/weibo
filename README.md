@@ -1,4 +1,4 @@
-weibo
-=====
+#import"QYViewController"
+NSString *str = @"hello,qingyun";
+Nslog(@"%@",str);
 
-新浪微博项目练习
